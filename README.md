@@ -7,6 +7,7 @@ With a streamlined interface, users can review onboarding requests, update onboa
 
 # Prerequisites
 - [Standard Item Library](https://github.com/Tools4ever-NIM/NIM-Framework-ItemLibrary)
+- [Framework Baseline v1](https://github.com/Tools4ever-NIM/NIM-Framework-Baseline)
 
 # Installation
 - Download app.json source file
